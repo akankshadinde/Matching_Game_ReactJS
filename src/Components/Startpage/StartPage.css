@@ -1,0 +1,47 @@
+.StartPage{
+    position: relative;
+}
+
+.wall{
+    height: 615px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 1303px;
+    Left:-10874px;
+    background: #FFFFFF;
+}
+
+.dialog{
+  display: flex;
+  position: absolute;
+  top: 9px;
+  right: 600px;
+  font-size: 56px;
+  height: 160px;
+  width: 95px;
+}
+
+.dialog p{
+    display: inline-block;
+    font-size: 40px;
+    position: absolute;
+    top: 8px;
+    left: 35px;
+    color:#11AEC6;
+    font-weight: 800;
+    white-space: nowrap;
+}
+
+.StartPage .btn{
+    width: 90px;
+    height: 50px;
+    left: 900px;    
+    position: absolute;
+    top: 450px;
+}
+
+.StartPage .btn img{
+    width: 250px;
+    height: 90px;
+}

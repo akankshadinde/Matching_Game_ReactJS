@@ -1,0 +1,78 @@
+.Screen4{
+    position: relative;
+}
+
+.wall{
+    height: 615px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 1303px;
+    Left:-10874px;
+    background: #FFFFFF;
+}
+
+.dialog{
+  display: flex;
+  position: absolute;
+  top: 115px;
+  right: 600px;
+  font-size: 30px;
+  height: 140px;
+  width: 30px;
+}
+
+.dialog p{
+    display: inline-block;
+    font-size: 22.5px;
+    position: absolute;
+    top: 0.3px;
+    left: 35px;
+    color:#11AEC6;
+    font-weight: 800;
+    line-height: 1.5em;
+    /* text-overflow: ellipsis; */
+    /* height: 3em; */
+    white-space: nowrap;
+}
+
+.Screen4 .btn{
+    width: 90px;
+    height: 50px;
+    left: 900px;    
+    position: absolute;
+    top: 450px;
+}
+
+.Screen4 .btn img{
+    width: 250px;
+    height: 90px;
+}
+
+.prev{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 75px;
+    left: 210px;
+}
+
+.prev img{
+    width: 140px;
+    height: 140px;
+    top: 0;
+}
+
+.bar{
+position: relative;
+top: -600px;
+left: 255px;
+
+}
+
+.banana{
+    position: relative;
+    top: -670px;
+    left: 875px;
+    angle: 19.36 deg;   
+}

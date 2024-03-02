@@ -1,0 +1,205 @@
+.Screen5{
+    position: relative;
+}
+
+.wall{
+    height: 615px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    top: 1303px;
+    Left:-10874px;
+    background: #FFFFFF;
+}
+
+.Screen5 .btn{
+    width: 90px;
+    height: 50px;
+    left: 790px;    
+    position: absolute;
+    top: 500px;
+}
+
+.Screen5 .btn img{
+    width: 250px;
+    height: 90px;
+}
+
+.prev{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 75px;
+    left: 270px;
+}
+
+.prev img{
+    width: 140px;
+    height: 140px;
+    top: 0;
+}
+
+.bar{
+position: relative;
+top: -600px;
+left: 270px;
+
+}
+
+.banana{
+    position: relative;
+    top: -670px;
+    left: 893px;
+    angle: 19.36 deg;   
+}
+
+.cards{
+width: 200px;
+height: 200px;
+position: absolute;
+top: 225px;
+left: 270px;
+}
+
+.cards img{
+    position: relative;
+    height: 270px;
+    width: 240px;
+    display: flex;
+}
+
+.cards img#pink{
+    height: 150px;
+    width: 150px;
+    top: -250px;
+    left: 40px;
+}
+.cards img#apple{
+    height: 130px;
+    width: 100px;
+    top: -390px;
+    left: 90px;
+}
+
+.cards p#para{
+    position: absolute;
+    top: 145px;
+    left: 40px;
+font-size: 20px;
+font-weight: 800;
+/* line-height: 55px; */
+letter-spacing: 0em;
+text-align: center;
+color: #11AEC6; 
+}
+
+.cards p#para1{
+position: absolute;
+top: 215px;
+left: 80px;
+font-size: 15px;
+font-weight: 800;
+/* line-height: 55px; */
+letter-spacing: 0em;
+text-align: center;
+color: #A6C930;
+}
+
+.cards1{
+width: 200px;
+height: 200px;
+position: absolute;
+top: 225px;
+left: 555px;
+}
+
+.cards1 img{
+    position: relative;
+    height: 270px;
+    width: 240px;
+    display: flex;
+}
+
+.cards1 img#blue{
+    height: 150px;
+    width: 150px;
+    top: -250px;
+    left: 40px;
+}
+
+.cards1 p#para{
+    position: absolute;
+    top: 145px;
+    left: 40px;
+font-size: 20px;
+font-weight: 800;
+/* line-height: 55px; */
+letter-spacing: 0em;
+text-align: center;
+color: #11AEC6; 
+}
+
+.cards1 p#para1{
+position: absolute;
+top: 215px;
+left: 80px;
+font-size: 15px;
+font-weight: 800;
+/* line-height: 55px; */
+letter-spacing: 0em;
+text-align: center;
+color: #A6C930;
+}
+
+.cards2{
+width: 200px;
+height: 200px;
+position: absolute;
+top: 225px;
+left: 830px;
+}
+
+.cards2 img{
+    position: relative;
+    height: 270px;
+    width: 240px;
+    display: flex;
+}
+
+.cards2 img#pink{
+    height: 150px;
+    width: 150px;
+    top: -250px;
+    left: 40px;
+}
+
+.cards2 img#blue{
+    height: 130px;
+    width: 100px;
+    top: -390px;
+    left: 90px;
+}
+
+.cards2 p#para{
+    position: absolute;
+    top: 145px;
+    left: 40px;
+font-size: 20px;
+font-weight: 800;
+/* line-height: 55px; */
+letter-spacing: 0em;
+text-align: center;
+color: #11AEC6; 
+}
+
+.cards2 p#para1{
+position: absolute;
+top: 215px;
+left: 80px;
+font-size: 15px;
+font-weight: 800;
+/* line-height: 55px; */
+letter-spacing: 0em;
+text-align: center;
+color: #A6C930;
+}
